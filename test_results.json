@@ -1,0 +1,44 @@
+{
+  "place_id": "ChIJ3U07-0P_sUARKGMHk-Cc34Q",
+  "name": "Vatra",
+  "rating": 4.4,
+  "total_ratings": 5446,
+  "meets_requirements": true,
+  "reviews": [
+    {
+      "author": "Mundi S",
+      "rating": 5,
+      "text": "Dined at Vatra with a few friends and it was an incredible experience! The place was packed, mostly with foreign guests, and we were super lucky to get a spot definitely recommend making a reservation! The staff were amazing, squeezing us in with a warm welcome. The atmosphere was electric, with lively folk dancing, gorgeous wall decorations, and multiple dining rooms that gave it a cozy yet grand vibe.\nWe had two clay pot chicken dishes one with crispy fries, the other with creamy mămăligă (Romanian polenta) both bursting with flavor (especially if you’re a garlic lover). The trout with vegetables was fresh and perfectly cooked. We shared warm appetizers (awesome variety!) and sipped their house wine, which paired great. For dessert, the papanași were fluffy and indulgent, and the cheese-filled pancakes (local style) were a delight. Portions were huge and authentically Romanian.\nVatra’s vibrant vibe, stunning decor, and delicious food make it a must-visit. Book ahead and enjoy!",
+      "sentiment_polarity": 0.34398989898989896,
+      "sentiment_label": "Positive"
+    },
+    {
+      "author": "Fasya Maudia",
+      "rating": 5,
+      "text": "ordered the tripe soup and papasini. the soup was creamy but light and fresh. the tripe was also excellent! they gave bread as a condiment.\n\npapasini was also perfect! the crisp from the doughnut is perfectly paired with the sour cream and combined with the sweetness from the compout. the service was also nice!",
+      "sentiment_polarity": 0.5687500000000001,
+      "sentiment_label": "Positive"
+    },
+    {
+      "author": "Martina Solařová",
+      "rating": 5,
+      "text": "Amazing restaurant with true Romanian charm!\n\nVatra is an incredible place where you really get a feel for authentic Romanian culture. The atmosphere is warm and welcoming, and the service is absolutely outstanding — attentive, friendly, and professional.\n\nThe food was delicious and full of flavor, truly a perfect introduction to traditional Romanian cuisine. To our surprise, we even got to enjoy two short live performances of traditional dances, which added so much to the experience and made the evening extra special.\n\nThis restaurant was the cherry on top of our day in Bucharest. I also love that it’s located just outside the busy Old Town — close enough to reach easily, but far enough to avoid the crowds. Plus, the prices are very reasonable for the quality you get.\n\nI highly recommend Vatra to anyone visiting Bucharest. We’ll definitely be coming back!",
+      "sentiment_polarity": 0.30027470078940666,
+      "sentiment_label": "Positive"
+    },
+    {
+      "author": "Che Kumar",
+      "rating": 5,
+      "text": "Came for lunch as per a recommendation wanting try Romanian cuisine and was not disappointed. Hearty meals and Romainan themed restaurant. Yes it was mostly tourists but worth trying still.",
+      "sentiment_polarity": 0.39166666666666666,
+      "sentiment_label": "Positive"
+    },
+    {
+      "author": "Maya Wolf",
+      "rating": 5,
+      "text": "Dined at Vatra to experience traditional Romanian food, and it did not disappoint. Yes, it might be a bit touristy (including local dancing and music), but the food was tasty.\nIf you want to try some traditional Romanian food in Bucharest, this is a great option.\nNote that if you want a seat on the patio in the evening, you may need a reservation.",
+      "sentiment_polarity": 0.2,
+      "sentiment_label": "Neutral"
+    }
+  ]
+}
